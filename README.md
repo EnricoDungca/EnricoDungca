@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnricoDungca
+- 👋 Hi, I’m Enrico <3
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming languages and I'm BSCS
 - 💞️ I’m looking to collaborate on ...
